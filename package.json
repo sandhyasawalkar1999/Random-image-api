@@ -1,0 +1,20 @@
+{
+  "name": "random-image-api",
+  "version": "1.0.0",
+  "description": "random image api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "random",
+    "images"
+  ],
+  "author": "sandhya sawalkar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
